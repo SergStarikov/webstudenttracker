@@ -1,4 +1,4 @@
-package com.luv2code.web.jdbc;
+package com.starikoff.web.jdbc;
 
 import java.io.IOException;
 import java.util.List;

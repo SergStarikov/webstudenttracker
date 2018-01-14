@@ -1,4 +1,4 @@
-package com.luv2code.web.jdbc;
+package com.starikoff.web.jdbc;
 
 import javax.annotation.Resource;
 import javax.servlet.ServletException;

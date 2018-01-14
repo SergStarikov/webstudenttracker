@@ -10,7 +10,7 @@
   <display-name>Student App</display-name>
   <servlet>
     <servlet-name>TestServlet</servlet-name>
-    <servlet-class>com.luv2code.web.jdbc.TestServlet</servlet-class>
+    <servlet-class>com.starikoff.web.jdbc.TestServlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>TestServlet</servlet-name>
